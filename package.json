@@ -1,5 +1,5 @@
 {
-  "name": "first-mate",
+  "name": "@pnidem/first-mate",
   "version": "6.2.1",
   "description": "TextMate helpers",
   "main": "./lib/first-mate.js",
@@ -22,12 +22,10 @@
     "event-kit": "^2.2.0",
     "fs-plus": "^2",
     "grim": "^2.0.1",
-    "oniguruma": "^6.1.0",
-    "grim": "^1.2.1",
-    "oniguruma": "^5.1.2",
+    "oniguruma": "^6.1.1",
     "onigurumajs": "^1.0.0",
     "season": "^5.0.2",
-    "underscore-plus": "^1"
+    "underscore-plus": "^1.6.6"
   },
   "devDependencies": {
     "jasmine-focused": "^1",
